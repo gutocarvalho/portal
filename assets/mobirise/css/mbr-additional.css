@@ -1099,7 +1099,12 @@ a {
   padding-bottom: 2rem;
 }
 .cid-tpCnH7irzz .item-wrapper {
+  height: 500px;
   position: relative;
+}
+.cid-tpCnH7irzz .item-wrapper img {
+  height: 100%;
+  object-fit: cover;
 }
 .cid-tpCnH7irzz .item-wrapper .icon-wrapper {
   pointer-events: none;
@@ -1378,7 +1383,7 @@ a {
 }
 .cid-tpCvwzBNNb .card-wrapper {
   border-radius: 4px;
-  background-color: #fafafa;
+  background-color: #bed3f9;
 }
 .cid-tpCvwzBNNb .image-wrapper img {
   width: 100%;
@@ -1424,7 +1429,12 @@ a {
   padding-bottom: 2rem;
 }
 .cid-tpCuB0m6Qc .item-wrapper {
+  height: 500px;
   position: relative;
+}
+.cid-tpCuB0m6Qc .item-wrapper img {
+  height: 100%;
+  object-fit: cover;
 }
 .cid-tpCuB0m6Qc .item-wrapper .icon-wrapper {
   pointer-events: none;
@@ -1686,7 +1696,7 @@ a {
   margin-bottom: 2rem;
   display: flex;
   border-radius: 4px;
-  background: #fafafa;
+  background: #bed3f9;
 }
 @media (max-width: 991px) {
   .cid-sFzIA7KGYz .card-wrapper {
@@ -1699,7 +1709,7 @@ a {
   }
 }
 .cid-sFzIA7KGYz .mbr-iconfont {
-  font-size: 2rem;
+  font-size: 4rem;
   padding-right: 1.5rem;
   color: #6592e6;
 }
@@ -2191,8 +2201,6 @@ a {
   color: #ffffff;
 }
 .cid-tpHNIdlWK0 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
   background-color: #353535;
 }
 .cid-tpHNIdlWK0 .mbr-fallback-image.disabled {
@@ -2233,8 +2241,6 @@ a {
   color: #ffffff;
 }
 .cid-tpHP01T4GU {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
   background-color: #353535;
 }
 .cid-tpHP01T4GU .mbr-fallback-image.disabled {
@@ -2275,8 +2281,6 @@ a {
   color: #ffffff;
 }
 .cid-tpHXW7IInc {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
   background-color: #353535;
 }
 .cid-tpHXW7IInc .mbr-fallback-image.disabled {
@@ -2317,8 +2321,6 @@ a {
   color: #ffffff;
 }
 .cid-tpHXXjB2IB {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
   background-color: #353535;
 }
 .cid-tpHXXjB2IB .mbr-fallback-image.disabled {
@@ -2359,8 +2361,6 @@ a {
   color: #ffffff;
 }
 .cid-tpI7RUDiB1 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
   background-color: #353535;
 }
 .cid-tpI7RUDiB1 .mbr-fallback-image.disabled {
@@ -2401,8 +2401,6 @@ a {
   color: #ffffff;
 }
 .cid-tpI7RggD6G {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
   background-color: #353535;
 }
 .cid-tpI7RggD6G .mbr-fallback-image.disabled {
